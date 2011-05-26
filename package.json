@@ -6,6 +6,11 @@
   "author"        : "John Resig <jeresig@gmail.com>",
   "contributors"  : [],
   "dependencies"  : {"jsdom": "=0.1.20","htmlparser": ">= 1.7.3"},
+  "maintainers":[ {
+     "name": "Francois Lafortune",
+     "email": "francois@needium.com",
+     "web": "http://about.me/quickredfox"
+  }],
   "lib"           : "lib",
   "main"          : "./dist/node-jquery.js",
   "version"       : "1.6.1",
