@@ -8,5 +8,5 @@
   "dependencies"  : {"jsdom": "=0.1.20","htmlparser": ">= 1.7.3"},
   "lib"           : "lib",
   "main"          : "./dist/node-jquery.js",
-  "version"       : "1.5.1"
+  "version"       : "1.6.1"
 }
